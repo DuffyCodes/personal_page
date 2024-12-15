@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/personal_page/static/css/main.a59cc186.css",
+    "main.js": "/personal_page/static/js/main.dc20e818.js",
+    "static/media/PXL_20230522_003914297.MP.jpg": "/personal_page/static/media/PXL_20230522_003914297.MP.7d2f51370fdcfc27065e.jpg",
+    "static/media/PXL_20230805_000015670.jpg": "/personal_page/static/media/PXL_20230805_000015670.213a1422debe449529d5.jpg",
+    "static/media/PXL_20240718_002451417.MP.jpg": "/personal_page/static/media/PXL_20240718_002451417.MP.4b4059e29001a331f252.jpg",
+    "static/media/PXL_20240902_133508232.MP.jpg": "/personal_page/static/media/PXL_20240902_133508232.MP.a46173beafb6c47547ff.jpg",
+    "static/media/PXL_20231208_172822016.jpg": "/personal_page/static/media/PXL_20231208_172822016.4510822195949dbd7d6b.jpg",
+    "static/media/PXL_20230616_150516449.jpg": "/personal_page/static/media/PXL_20230616_150516449.3c452271e086b731d103.jpg",
+    "static/media/PXL_20240910_212346375.MP.jpg": "/personal_page/static/media/PXL_20240910_212346375.MP.0777fba0861233e945f2.jpg",
+    "static/media/PXL_20240909_173615599.MP.jpg": "/personal_page/static/media/PXL_20240909_173615599.MP.238d112c33a67fbb6fb3.jpg",
+    "static/media/20161029_121628.jpg": "/personal_page/static/media/20161029_121628.cdd27605fe309e6d8ac1.jpg",
+    "static/media/PXL_20230421_155740566.jpg": "/personal_page/static/media/PXL_20230421_155740566.17a9f75085c5d76b7ba3.jpg",
+    "static/media/PXL_20240908_225247239.PANO.jpg": "/personal_page/static/media/PXL_20240908_225247239.PANO.35c56a59730ee4dc5331.jpg",
+    "static/media/PXL_20231023_030534080.jpg": "/personal_page/static/media/PXL_20231023_030534080.19f25e552a6534fbf957.jpg",
+    "static/media/IMG_2112.JPG": "/personal_page/static/media/IMG_2112.1e1339b8609a276c4089.JPG",
+    "static/media/PXL_20240414_162505111.jpg": "/personal_page/static/media/PXL_20240414_162505111.86f1d61810f948666cd0.jpg",
+    "static/media/PXL_20230418_223608484.NIGHT.jpg": "/personal_page/static/media/PXL_20230418_223608484.NIGHT.592bbaa14eb79d49f807.jpg",
+    "static/media/20171023_111204.jpg": "/personal_page/static/media/20171023_111204.12d92493280132440522.jpg",
+    "static/media/20200312_151953.jpg": "/personal_page/static/media/20200312_151953.0166c6c363be63880f25.jpg",
+    "static/media/background_3.png": "/personal_page/static/media/background_3.1b44821113da564e30bb.png",
+    "static/media/20171022_111656.jpg": "/personal_page/static/media/20171022_111656.94bb285adc6c2d8b2f29.jpg",
+    "static/media/20170514_171012.jpg": "/personal_page/static/media/20170514_171012.da68502aee500371f6d2.jpg",
+    "static/media/20170518_201821.jpg": "/personal_page/static/media/20170518_201821.7bdd6dc521975aaee8ec.jpg",
+    "static/media/familyPhoto.jpg": "/personal_page/static/media/familyPhoto.ae40e93c1799b3d190f2.jpg",
+    "static/media/468624874___n.jpg": "/personal_page/static/media/468624874_10105361174036763_374293864104060914_n.768a87d3307cb00e06aa.jpg",
+    "static/media/467830708___n.jpg": "/personal_page/static/media/467830708_10235702062471099_7465517753005211809_n.5f42d8e6f0ff6ea46afe.jpg",
+    "static/media/1550159494967.jpg": "/personal_page/static/media/1550159494967.6fac76d65f71217294dd.jpg",
+    "static/media/slick.svg": "/personal_page/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/personal_page/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/personal_page/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/personal_page/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/personal_page/index.html",
+    "main.a59cc186.css.map": "/personal_page/static/css/main.a59cc186.css.map",
+    "main.dc20e818.js.map": "/personal_page/static/js/main.dc20e818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59cc186.css",
+    "static/js/main.dc20e818.js"
+  ]
+}
